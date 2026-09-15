@@ -2,8 +2,8 @@
 
 A 2D arcade game inspired by classic Frogger and Crossy Road, built purely with Python's native `turtle` module. Players navigate a turtle safely across busy multi-lane highways while avoiding oncoming vehicles that increase in speed with every successful level.
 
-
-
+![Alt Text Description](./Screenshot_20260915_181530.png)
+    
 ## Key Features
 - **Dynamic Difficulty Scaling:** Traffic movement speed increases incrementally upon completing each level.
 - **Randomized Traffic Generation:** Cars are instantiated dynamically at randomized intervals along vertical lanes with varying color attributes.
